@@ -1,0 +1,7 @@
+python-whois
+pandas
+matplotlib
+numpy
+scipy
+scikit-learn
+streamlit
